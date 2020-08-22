@@ -1,2 +1,15 @@
-<h1>si tu me dices que sin mi no as podido ser feliz</h1>
-<p>es por que a nadie en el mundo amare como yo ati</p>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>formulario</title>
+</head>
+<body>
+	<h1><?php echo "formulario"; ?></h1>
+	<form>
+		
+		<input type="text" name="nombre">
+		<br>
+		<button>Guardar</button>
+	</form>
+</body>
+</html>
